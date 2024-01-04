@@ -1,0 +1,7 @@
+TERRAIN GENERATION
+====================
+maybe use a `Grid System`. utilize diagnals and have various types of "rooms"
+
+Pokemon toy-like game with stubby block people.
+
+Have various types, like Pirates, Vikings, animal-people
